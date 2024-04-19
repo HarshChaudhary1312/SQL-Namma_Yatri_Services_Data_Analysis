@@ -27,7 +27,7 @@ The analysis covers the following aspects:
 - Location of Bookings: Geospatial analysis of booking locations.
 
 ## SQL Queries
-The `sql_queries/` directory contains SQL queries used to extract and manipulate data from the database. These queries are organized based on their respective analysis topics.
+The `NammaYatri_Data_Analysis.sql` directory contains SQL queries used to extract and manipulate data from the database. These queries are organized based on their respective analysis topics.
 
 ## Power BI Dashboard
 The `power_bi_dashboard/` directory contains Power BI files for visualizing the analyzed data. The dashboard provides interactive visualizations for better understanding and interpretation of the insights gained from the analysis.
