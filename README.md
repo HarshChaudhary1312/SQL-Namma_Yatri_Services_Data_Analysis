@@ -14,9 +14,9 @@ This project focuses on analyzing the data from the Namma Yatri passenger servic
 
 ## Project Structure
 The repository is organized as follows:
-- `data/`: Contains datasets used in the analysis.
-- `sql_queries/`: SQL queries used to extract and manipulate data.
-- `power_bi_dashboard/`: Power BI files for visualization.
+- `Namma Yatri (XLSX).xlsx`: Contains datasets used in the analysis.
+- `NammaYatri_Data_Analysis.sql`: SQL queries used to extract and manipulate data.
+- `Dashboard-Namma_Yatri_Data_Analysis(Power BI).pdf`: Power BI files for visualization.
 - `README.md`: This file providing an overview of the project.
 
 ## Data Analysis
