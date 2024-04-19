@@ -30,7 +30,7 @@ The analysis covers the following aspects:
 The `NammaYatri_Data_Analysis.sql` directory contains SQL queries used to extract and manipulate data from the database. These queries are organized based on their respective analysis topics.
 
 ## Power BI Dashboard
-The `power_bi_dashboard/` directory contains Power BI files for visualizing the analyzed data. The dashboard provides interactive visualizations for better understanding and interpretation of the insights gained from the analysis.
+The `Dashboard-Namma_Yatri_Data_Analysis(Power BI).pdf` directory contains Power BI files for visualizing the analyzed data. The dashboard provides interactive visualizations for better understanding and interpretation of the insights gained from the analysis.
 
 ## How to Use
 To replicate the analysis and visualize the data using Power BI, follow these steps:
