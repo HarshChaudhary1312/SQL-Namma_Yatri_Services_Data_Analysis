@@ -1,5 +1,5 @@
 # Namma Yatri - Data Analytics Project
-<img src="https://nammayatri.in/img/driverOnboard-NammaYatri.png" height="400">
+<img src="https://nammayatri.in/img/driverOnboard-NammaYatri.png" height="500">
 
 ## Overview
 This project focuses on analyzing the data from the Namma Yatri passenger services platform, aiming to gain insights into various aspects such as trips, searches, driver earnings, and booking locations. The analysis is performed using SQL queries and visualized through graphs using Power BI.
